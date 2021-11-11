@@ -6,5 +6,3 @@
 <script src="https://play.dev1.viostream.io/embed/niwrgryd8wrz4k?f=ao?playerKey=s-dj45fsx"></script>
 ### time span video 
 <script src="https://play.dev1.viostream.io/embed/niwrgryd8wrz4k?v_ts=10s-15s?playerKey=s-dj45fsx"></script>
-# david test
-<p><iframe style="width: 640px; height: 360px; border: none; overflow: hidden;" src="https://publish.viostream.com/player/iframe/ota87gdkzjqfm" allowfullscreen="allowfullscreen"></iframe></p>
