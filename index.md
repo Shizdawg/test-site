@@ -8,3 +8,5 @@
 <script src="https://play.dev1.viostream.io/embed/niwrgryd8wrz4k?v_ts=10s-15s?playerKey=s-dj45fsx"></script>
 ### trial test
 <script src="https://play.stag.viostream.io/embed/dpqq9ewdpqdzz1"></script>
+### player controls test
+<script src="https://play.viostream.com/embed/nhedxonnh1odym"></script>
