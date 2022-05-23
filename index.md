@@ -8,5 +8,3 @@
 <script src="https://play.dev1.viostream.io/embed/niwrgryd8wrz4k?v_ts=10s-15s?playerKey=s-dj45fsx"></script>
 ### trial test
 <script src="https://play.stag.viostream.io/embed/dpqq9ewdpqdzz1"></script>
-### songroom 17 vid channel
-<script src="https://publish.viostream.com/player/c-dtyim1p"></script>
