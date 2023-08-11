@@ -10,3 +10,6 @@
 
 # insignia no chapters - script
 <script src="//play.viostream.com/embed/t1brdxdhystq8"></script>
+
+# insignia no chapters fullscreen - drop down
+<script src="//play.viostream.com/embed/t1brdxdhystq8?playerKey=s-dsw7j9f"></script>
